@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+header a {
+  color: rgb(152,173,166);
+} 
 /*////////// Global Styles //////////*/
 
 body {
