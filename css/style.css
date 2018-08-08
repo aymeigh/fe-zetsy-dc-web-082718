@@ -3,8 +3,11 @@
 /* link the web font used for the level 1 heading here */
 header a {
   color: rgb(152,173,166);
-  hover: 
 } 
+
+a:hover {
+  color: rgb(92,108,102)
+}
 
 h1 {
     padding-bottom: 10px;
