@@ -3,7 +3,7 @@
 /* link the web font used for the level 1 heading here */
 #header {
   font-family: 'Baskerville.ttc';
-  font-color: rgb(135, 158, 149);
+  color: rgb(135, 158, 149);
 }
 
 /*////////// Global Styles //////////*/
