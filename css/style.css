@@ -1,12 +1,6 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-h1 {
-  display: block;
-  font-size: 5em;
-  font-family: 'Baskerville', serif;
-  color: rgb(135,158,149);
-}
 
 /*////////// Global Styles //////////*/
 
@@ -28,5 +22,4 @@ body {
 
 #featured img {
   border: 5px rgb(152,173,166) solid;
-}
 }
