@@ -26,7 +26,7 @@ body {
 /* Write all remaining styles here */
 /* IMAGE */
 
-img {
-  border-width: 2px;
-  border-color: rgb(135, 158, 149);
+#featured img {
+  border: 5px rgb(152,173,166) solid;
+}
 }
