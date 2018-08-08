@@ -1,9 +1,8 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-#header {
-  font-family: 'Baskerville.ttc';
-  color: rgb(135, 158, 149);
+h1 {
+  
 }
 
 /*////////// Global Styles //////////*/
