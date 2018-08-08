@@ -3,6 +3,7 @@
 /* link the web font used for the level 1 heading here */
 header a {
   color: rgb(152,173,166);
+  hover: 
 } 
 
 h1 {
@@ -13,6 +14,8 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
+
+
 /*////////// Global Styles //////////*/
 
 body {
